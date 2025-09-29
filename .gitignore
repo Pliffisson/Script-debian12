@@ -1,0 +1,92 @@
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.save
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# System files
+.directory
+desktop.ini
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# Configuration backups
+backup-*.yaml
+*.conf.bak
+*.cfg.bak
+
+# Test files
+test_*
+*_test.sh
+
+# Personal notes
+notes.txt
+TODO.txt
+NOTES.md
+
+# Sensitive information
+.env
+.env.local
+.env.production
+secrets.txt
+passwords.txt
+keys/
+*.key
+*.pem
+
+# Runtime files
+*.pid
+*.sock
+
+# Cache
+.cache/
+cache/
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Package manager files (if applicable)
+node_modules/
+vendor/
+
+# Local development
+local/
+dev/
+development/
